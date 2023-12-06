@@ -1,3 +1,3 @@
 # USTO-Platform
 
-not complite yet need data base 
+- Need some Work and Data base 
